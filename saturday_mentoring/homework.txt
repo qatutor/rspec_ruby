@@ -1,0 +1,2 @@
+1. pending doesn't work. try it.
+2. try how to run from specific line in spec file.
